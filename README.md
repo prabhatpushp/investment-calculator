@@ -31,7 +31,7 @@ The Investment Calculator is a web application built with Next.js that allows us
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <YOUR_GIT_URL>
+   git clone https://github.com/prabhatpushp/investment-calculator
    cd investment-calculator
    ```
 2. Install the required dependencies:
